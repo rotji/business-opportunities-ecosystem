@@ -4,6 +4,8 @@ A market-first exploration of commercial opportunities across business technolog
 
 This repository records the reasoning, discoveries, evidence, decisions, and practical exploration journey. It is **not** a commitment to build a software product.
 
+> **Governing project rule:** Preserve our discoveries as we progress, avoid repeating completed investigations, and update earlier conclusions only when new evidence warrants it. This rule applies to every category, workstream, research task, and future contributor. Read [Project Governance](docs/00-project-governance.md) before continuing work.
+
 ## Purpose
 
 Identify valuable business opportunities by understanding existing markets and ecosystems first. Prefer participating in, connecting, implementing, distributing, or complementing solutions that already exist. Build only when evidence justifies it.
@@ -144,7 +146,7 @@ ERP belongs under **Business Management Systems** within the wider Business Tech
 ## Working principles for this repository
 
 - **Understand before documenting conclusions:** documentation should preserve discoveries and evidence, not substitute for real investigation.
-- **Do not repeat completed work:** consult existing project records before opening a topic. Revisit earlier discoveries only when new evidence changes, qualifies, or updates them.
+- **Do not repeat completed work:** follow the mandatory [Project Governance](docs/00-project-governance.md) rule. Check existing records before starting; revisit only for a defined reason and preserve the discovery trail.
 - **Separate exploration from commitment:** investigating a market does not mean deciding to enter it.
 - **Prefer real-world validation:** where useful, engage providers and prospective customers through websites, email, phone, and eventually in-person conversations.
 - **Stay evidence-led:** record sources, dates, confidence, assumptions, and unanswered questions.
@@ -156,6 +158,7 @@ ERP belongs under **Business Management Systems** within the wider Business Tech
 business-opportunities-ecosystem/
 ├── README.md
 ├── docs/
+│   ├── 00-project-governance.md
 │   ├── 01-governing-philosophy.md
 │   ├── 02-opportunity-ecosystem-map.md
 │   ├── 03-opportunity-evaluation-framework.md
@@ -178,6 +181,7 @@ This is an initial structure. Files should be added as the work develops, not me
 - BI and external intelligence are distinct but potentially complementary capabilities.
 - An independent intelligence service with integrations across existing platforms is a direction worth researching, not yet a validated opportunity.
 - The governing approach is market-first, partnership-first, and build-last.
+- Project continuity and non-repetition are governed by [docs/00-project-governance.md](docs/00-project-governance.md).
 
 **Not yet established:**
 - Market demand or willingness to pay for any proposed service.
@@ -188,4 +192,4 @@ This is an initial structure. Files should be added as the work develops, not me
 
 ## Immediate next research direction
 
-Continue by mapping existing providers across the ecosystem, starting with the ERP–BI–external-intelligence relationship. Identify actual products, capabilities, integration options, partner programmes, customer segments, and credible limitations before drawing conclusions about opportunities.
+Continue by mapping existing providers across the ecosystem, starting with the ERP–BI–external-intelligence relationship. Identify actual products, capabilities, integration options, partner programmes, customer segments, and credible limitations before drawing conclusions. Follow the project governance rule: inspect existing records and continue from the last established point.
