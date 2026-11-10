@@ -26,6 +26,10 @@ Our decision sequence:
 
 A gap is not automatically an opportunity. We must also verify that customers care about it, will adopt a solution, and are willing or able to pay. A competitor or startup may be approaching the same gap; continue monitoring before committing resources.
 
+## Ten-category platform exploration plan
+
+The practical exploration sequence uses one representative platform at a time across ten categories, prioritising permanent free access, recurring credits, or public demos over short time-limited trials. See the [Ten-Category Platform Exploration Plan](docs/05-ten-category-platform-exploration-plan.md) for the selection criteria and investigation process. The categories are a working map; platform selections remain open until practical inspection.
+
 ## Opportunity map
 
 The initial map is a working classification, not a final or exhaustive taxonomy. Categories overlap, and platforms may operate across several.
@@ -172,6 +176,8 @@ business-opportunities-ecosystem/
 This is an initial structure. Files should be added as the work develops, not merely to fill folders.
 
 ## Current status
+
+**Practical exploration plan:** A ten-category, one-representative-platform-at-a-time approach has been recorded in [docs/05-ten-category-platform-exploration-plan.md](docs/05-ten-category-platform-exploration-plan.md). Category 1 (Business Management Systems) is the intended first investigation. No ten-platform shortlist has been preselected.
 
 **Stage:** Initial framing and ecosystem mapping.
 
